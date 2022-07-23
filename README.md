@@ -7,7 +7,7 @@ my name is Ahmad Jubran, I live in Amman, Jordan. I have a bachelors degree in c
 
 ![Me!](img/AhmadPhoto.jpg)
 
-## This Repo contains my reading notes for Javascript course
+- This Repo contains my reading notes for Javascript course
 
 ### Code 102 - Intro to Software Development
 
@@ -18,6 +18,10 @@ my name is Ahmad Jubran, I live in Amman, Jordan. I have a bachelors degree in c
 ---
 
 ### Code 301 Intermediate Software Development
+
+| CONTENT                                        | LINK                                                             |
+| ---------------------------------------------- | ---------------------------------------------------------------- |
+| Read 01 - Introduction to React and Components | [Introduction to React and Components](Code301/Read01/README.md) |
 
 ---
 
