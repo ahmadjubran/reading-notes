@@ -1,14 +1,8 @@
 # Introduction to React and Components
 
-## What Is React?
-
-**React** is a declarative, efficient, and flexible JavaScript library for building user interfaces. It lets you compose complex UIs from small and isolated pieces of code called “**components**”.
-
 ## What Is A Component?
 
-- **Components** are reusable pieces of code that we can compose into larger components.
-
-- We use **components** to tell React what we want to see on the screen. When our data changes, React will efficiently update and re-render our components.
+**Components** are reusable pieces of code that we can compose into larger components.
 
 ## Characteristics of Components
 
