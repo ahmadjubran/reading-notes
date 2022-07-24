@@ -22,6 +22,7 @@ my name is Ahmad Jubran, I live in Amman, Jordan. I have a bachelors degree in c
 | CONTENT                                        | LINK                                                             |
 | ---------------------------------------------- | ---------------------------------------------------------------- |
 | Read 01 - Introduction to React and Components | [Introduction to React and Components](Code301/Read01/README.md) |
+| Read 02 - State and Props                      | [State and Props](Code301/Read02/README.md)                      |
 
 ---
 
