@@ -35,7 +35,7 @@ When the **props** and the **state** changes.
 
 ## What are some examples of things that we could store in state?
 
-- you want to change something in your application
+- When you want to change something in your application
 - inside the component
 - inside a **form**
 
