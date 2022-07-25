@@ -72,3 +72,5 @@ We can pass a method as a prop.
 ## How does the child component invoke a method that was passed to it from a parent component?
 
 we can call the method using `this.props.methodName()`
+
+## Things I want to know more about
