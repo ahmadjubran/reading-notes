@@ -2,7 +2,7 @@
 
 ## What is the single responsibility principle and how does it apply to components?
 
-SRP is a principle that states that a class should have only one reason to change. It is a way to make sure that a class is not too complex and that it is easy to test.
+SRP is that every class, module, or function in a program should have one responsibility/purpose in a program. It is a way to make sure that a class is not too complex and that it is easy to test.
 
 ## What does it mean to build a ‘static’ version of your application?
 
