@@ -26,6 +26,7 @@ my name is Ahmad Jubran, I live in Amman, Jordan. I have a bachelors degree in c
 | Read 03 - Passing Functions as Props           | [Passing Functions as Props](Code301/Read03/README.md)           |
 | Read 04 - React and Forms                      | [React and Forms](Code301/Read04/README.md)                      |
 | Read 05 - Putting it all together              | [Putting it all together](Code301/Read05/README.md)              |
+| Read 06 - NODE.JS                              | [NODE.JS](Code301/Read06/README.md)                              |
 
 ---
 
