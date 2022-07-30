@@ -52,3 +52,5 @@ installing and running various build tools designed to automate the process of d
 - The **driver** is the person who is responsible for writing the code and the **navigator** is the person who is responsible for reading and understanding the code.
 
 - By having two people working on the same project, we can learn from each other’s mistakes and learn from each other’s successes. We can also learn from each other’s ideas and share our own ideas.
+
+## Things I want to know more about
