@@ -27,6 +27,7 @@ my name is Ahmad Jubran, I live in Amman, Jordan. I have a bachelors degree in c
 | Read 04 - React and Forms                      | [React and Forms](Code301/Read04/README.md)                      |
 | Read 05 - Putting it all together              | [Putting it all together](Code301/Read05/README.md)              |
 | Read 06 - NODE.JS                              | [NODE.JS](Code301/Read06/README.md)                              |
+| Read 07 - REST                                 | [REST](Code301/Read07/README.md)                                 |
 
 ---
 
