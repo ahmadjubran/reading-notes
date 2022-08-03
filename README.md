@@ -29,6 +29,7 @@ my name is Ahmad Jubran, I live in Amman, Jordan. I have a bachelors degree in c
 | Read 06 - NODE.JS                              | [NODE.JS](Code301/Read06/README.md)                              |
 | Read 07 - REST                                 | [REST](Code301/Read07/README.md)                                 |
 | Read 08 - APIs                                 | [APIs](Code301/Read08/README.md)                                 |
+| Read 09 - Functional Programming               | [Functional Programming](Code301/Read09/README.md)               |
 
 ---
 
