@@ -48,3 +48,4 @@ my name is Ahmad Jubran, I live in Amman, Jordan. I have a bachelors degree in c
 | Read 04 - Advanced State with Reducers | [Advanced State with Reducers](Code401/Read04/README.md) |
 | Read 05 - Socket BE                    | [Socket BE](Code401/Read05/README.md)                    |
 | Read 06 - Hash Tables                  | [Hash Tables](Code401/Read06/README.md)                  |
+| Read 07 - Chakra UI                    | [Chakra UI](Code401/Read07/README.md)                    |
