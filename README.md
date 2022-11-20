@@ -49,3 +49,5 @@ my name is Ahmad Jubran, I live in Amman, Jordan. I have a bachelors degree in c
 | Read 05 - Socket BE                    | [Socket BE](Code401/Read05/README.md)                    |
 | Read 06 - Hash Tables                  | [Hash Tables](Code401/Read06/README.md)                  |
 | Read 07 - Chakra UI                    | [Chakra UI](Code401/Read07/README.md)                    |
+| Read 08 - Graphs                       | [Graphs](Code401/Read08/README.md)                       |
+| Read 09 - Redux Basic                  | [Redux Basic](Code401/Read09/README.md)                  |
